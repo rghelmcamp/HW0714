@@ -1,0 +1,87 @@
+.purpleAlert{
+    background-color: #9E81BC; 
+    opacity: 80%;
+    color: white;
+    border: #9E81BC solid; 
+    align-content: center;
+    text-align: center;
+    float: center;
+}
+
+.searchButton{
+    background-color: #9E81BC; 
+    opacity: 80%;
+    color: white;
+    border: #9E81BC solid; 
+}
+
+.img1{
+    width: 500px;
+    height: 500px;
+    padding: 40px;
+}
+
+.p1{
+    padding: 40px 0px 0px 0px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.p2{
+    padding: 10px 0px 0px 0px;
+    font-size: 14px;
+}
+
+.line{
+    height: 2px;
+    width: 400px;
+    background-color: gray;
+}
+
+.newPoly{
+    height: 40px;
+    width: 50px;
+    border-radius: 8px;
+    background-color: gray;
+    color: white;
+    display: inline-flex;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.dropdown1{
+    background-color: lightgray;
+}
+
+.p3{
+    padding: 40px 0px 0px 0px;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: #9E81BC;
+}
+
+.p4{
+    padding: 10px 0px 0px 0px;
+    font-size: 14px;
+    align-content: center;
+    text-align: center;
+    float: center;
+}
+
+.line2{
+    height: 2px;
+    width: 100%;
+    background-color: gray;
+}
+
+.img2{
+    align-content: center;
+    float: center;
+    padding: 40px;
+}
+
+.alertLink{
+    color: white;
+}
